@@ -3,7 +3,7 @@ Create music playlists and search songs by names, albums, artists, genres and ye
 
 ## Features
 
-> See the full [usage example](https://github.com/dankunis/music-catalogue/blob/master/src/dan/kunis/Main.java "example") source code
+> A complete usage example is [here](https://github.com/dankunis/music-catalogue/blob/master/src/dan/kunis/Main.java)
 
 - Create genres and subgenres
 ```java
